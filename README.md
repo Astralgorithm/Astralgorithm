@@ -6,6 +6,6 @@ Heyo! I am a Electrical Engineering Technology student with an Associates in Sci
 
 **Region:** United States, UTC-05:00
 
-**Favorite Color**: `#F0F`
+**Favorite Color**: `#FF00FF`
 
-I have taught myself a bit of JavaScript, HTML, and CSS. I have dabbled in a bit of C# and had taken college courses for python, C, and C++. I have the general gist of what's going on there. I don't do as much programming/development as I probably should do.
+I have taught myself a bit of JavaScript, HTML, and CSS, specifically using TailwindCSS. I have dabbled in a bit of C# and had taken college courses for python, C, and C++. Took a college course utilizing HDL for digital systems. Regardless of what I have used, I have the general gist of what's going on and some very basic knowledge of a few. I don't do as much programming/design/development as I probably should do.
