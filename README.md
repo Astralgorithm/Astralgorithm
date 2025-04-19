@@ -13,7 +13,8 @@ Currently, I'm an **Electrical Engineering Technology student** with an **Associ
   - C, C++, Python, C#
   - JavaScript, HTML, CSS (TailwindCSS)
   - SystemVerilog (beginner-level knowledge)
- Love learning new things, regardless of how difficult they may be.
+
+Love learning new things, regardless of how difficult they may be.
 
  ---
 
